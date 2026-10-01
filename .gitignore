@@ -1,0 +1,15 @@
+# Données téléchargées et générées (récupérées automatiquement depuis l'open data SNCF)
+data/*.csv
+*.csv
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Système
+.DS_Store
+Thumbs.db
