@@ -51,7 +51,7 @@ D'autres graphiques sont disponibles dans le dossier [`images/`](images/) : matr
 ```
 ├── notebooks/
 │   └── analyse_exploitation_sncf.ipynb   # tout le code, de la collecte au dashboard
-├── docs/
+├── doc/
 │   ├── memoire_maintenance_predictive_sncf.pdf   # mémoire complet (42 pages)
 │   └── soutenance_memoire_sncf.pptx              # support de soutenance
 ├── data/
