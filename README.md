@@ -83,4 +83,10 @@ Python · pandas · NumPy · SQLite · scikit-learn · TensorFlow/Keras · Matpl
 
 ---
 
-👩‍💻 **Nosaiba Elkrekshi** · Master 2 Data & IA · [LinkedIn](https://www.linkedin.com/in/nosaiba-elkrekshi) · nosaiba.elkrekshi@gmail.com
+👩‍💻 **Nosaiba Elkrekshi** · 
+
+Master 2 Data & IA · 
+
+[LinkedIn](https://www.linkedin.com/in/nosaiba-elkrekshi) · 
+
+nosaiba.elkrekshi@gmail.com
